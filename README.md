@@ -1,0 +1,1 @@
+<div class="lg:max-w-xl lg:mx-auto pt-8 pb-16 px-10 lg:px-0"><img src="/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg" alt="Hacktoberfest 2021 Logo"></div>
